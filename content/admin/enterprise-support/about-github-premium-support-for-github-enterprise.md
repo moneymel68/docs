@@ -1,17 +1,17 @@
----
+-		
 title: About GitHub Premium Support for GitHub Enterprise
 intro: '{% data variables.contact.premium_support %} is a paid, supplemental support offering for {% data variables.product.prodname_enterprise %} customers.'
 redirect_from:
   - /enterprise/admin/enterprise-support/about-github-premium-support-for-github-enterprise
 versions:
-  enterprise-server: '*'
+  enterprise-server: '*'		
 topics:
-  - enterprise
----
+  - enterprise		
+---		
 
-{% note %}
+{% note %}		
 
-**Notes:**
+**Notes:**		
 
 - The terms of {% data variables.contact.premium_support %} are subject to change without notice and are effective as of July 2019.
 
@@ -19,7 +19,7 @@ topics:
 
 - This article contains the terms of {% data variables.contact.premium_support %} for {% data variables.product.prodname_enterprise %} customers who purchase {% data variables.product.prodname_ghe_server %} and {% data variables.product.prodname_ghe_cloud %} together. The terms of {% data variables.contact.premium_support %} may be different for customers who purchase either product separately. For more information, see "[About {% data variables.contact.premium_support %} for {% data variables.product.prodname_ghe_server %}](/enterprise/{{ currentVersion }}/admin/guides/enterprise-support/about-github-premium-support-for-github-enterprise-server)" and "<a href="/articles/about-github-premium-support-for-github-enterprise-cloud" class="dotcom-only">About {% data variables.contact.premium_support %} for {% data variables.product.prodname_ghe_cloud %}</a>."
 
-{% endnote %}
+{% endnote %}		
 
 ### About {% data variables.contact.premium_support %}
 
@@ -27,7 +27,7 @@ In addition to all of the benefits of {% data variables.contact.enterprise_suppo
   - Written support, in English, through our support portal 24 hours per day, 7 days per week
   - Phone support, in English, 24 hours per day, 7 days per week
   - A Service Level Agreement (SLA) with guaranteed initial response times
-  - Access to premium content
+  - Access to premium content		
   - Scheduled health checks
   - Managed services
 
@@ -39,7 +39,7 @@ In addition to all of the benefits of {% data variables.contact.enterprise_suppo
 
 {% data reusables.support.contacting-premium-support %}
 
-### Hours of operation
+### Hours of operation		
 
 {% data variables.contact.premium_support %} is available 24 hours a day, 7 days per week.
 
